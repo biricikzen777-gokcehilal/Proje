@@ -1,0 +1,14 @@
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\bin\Debug\net10.0\projeBiricik.exe
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\bin\Debug\net10.0\projeBiricik.deps.json
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\bin\Debug\net10.0\projeBiricik.runtimeconfig.json
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\bin\Debug\net10.0\projeBiricik.dll
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\bin\Debug\net10.0\projeBiricik.pdb
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.AssemblyInfoInputs.cache
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.AssemblyInfo.cs
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.csproj.CoreCompileInputs.cache
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.dll
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\refint\projeBiricik.dll
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.pdb
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.genruntimeconfig.cache
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\ref\projeBiricik.dll
