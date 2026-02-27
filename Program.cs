@@ -369,3 +369,7 @@ class SepetItem
     public double UnitPrice { get; set; }
     public int Quantity { get; set; }
 }
+
+// Biricik Zen AYDOĞUŞ
+// Mahmut ÇİFTÇİ
+// Samet KIVANC

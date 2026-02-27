@@ -12,3 +12,4 @@ C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\n
 C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.pdb
 C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.genruntimeconfig.cache
 C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\ref\projeBiricik.dll
+C:\Users\biricik\OneDrive\Masaüstü\PROJE\projeBiricik\projeBiricik\obj\Debug\net10.0\projeBiricik.sourcelink.json

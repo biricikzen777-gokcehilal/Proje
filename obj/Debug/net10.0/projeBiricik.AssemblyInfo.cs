@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projeBiricik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f912774f99a721a2acb463608ca941f43a6efd32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7690e8d511595f5fc085919f5b3bb6e7f4cc955b")]
 [assembly: System.Reflection.AssemblyProductAttribute("projeBiricik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projeBiricik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
